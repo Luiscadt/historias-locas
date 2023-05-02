@@ -1,4 +1,4 @@
-##Historias Locas
+#Historias Locas
 Luis the YouTuber and His Malib Code
 
 Luis, the YouTuber, has created this code to prompt the user for inputs to create a "malib" (mad-libs style) sentence about computer programming. The program starts by printing the name of the YouTuber using two different methods. Then, it prompts the user to enter an adjective, two verbs, and the name of a famous person.
